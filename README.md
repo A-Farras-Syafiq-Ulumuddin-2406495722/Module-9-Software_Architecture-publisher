@@ -7,3 +7,6 @@
 **Question:** The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 > **Answer:**
 > This mean both subscriber and publisher interact the same message broker that way subscriber and publisher can communicate with each other.
+
+# RabbitMQ Screen
+![RabbitMQ Screen](images/RabbitMQ_Screen.png)
